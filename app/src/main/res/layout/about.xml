@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_height="fill_parent"
+    android:layout_width="fill_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android" >
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Me, Hiten Parmar was not a topper in the subject of Physics at School level. But I was very well aware of my limitations and tried to give my best at all stages in the situation. I did my schooling from Kendriya Vidhyalaya and Demonstration multipurpose high school, Ajmer. I made my school proud by clearing NTSE and NDA. I was keen to join the INDIAN AIR FORCE but had to drop the Idea after clearing SSB due to my spectacles. Then I appeared for the engineering entrance examination and got admission in MBM Enginnering College, Jodhpur. There I felt that PHYSICS is the only subject that can make us excel in any stream of science studies. I REDEFINED MY KNOWLEDGE OF THE SUBJECT THERE AND FOUND THE SUBJECT TO BE VERY INNOVATIVE AND INTERESTING. During college only I started taking PHYSICS classes and joined a school as a PHYSICS Faculty."
+        android:layout_marginRight="20dp"
+
+        android:layout_marginLeft="20dp"
+
+        android:textSize="20dp"
+        android:textColor="@color/bg_screen3"
+
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="20dp"
+        android:text="Talking about my career as a PHYSICS MENTOR in Jaipur, I have taught in various CBSE and ISC schools in the city including CAMBRIDGE COURT HIGH SCHOOL, RYAN INTERNATIONAL SCHOOL, SPRINGFIELD SCHOOL and DELHI PUBLIC SCHOOL. Alongwith it, I have been regularly taking students for leading them success in various engineering and medical entrance examinations. My students have a good record of success in JEE mains (previously AIEEE), JEE ADVANCED, SRMJEE, VITJEE and other examinations. The results of NEET (previously AIPMT/RPMT) and AIIMS are one of the best in the city."
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="20dp"
+        android:textSize="20dp"
+        android:textColor="@color/bg_screen3"
+        android:layout_marginBottom="70dp"
+        />
+
+</LinearLayout>
+</ScrollView>

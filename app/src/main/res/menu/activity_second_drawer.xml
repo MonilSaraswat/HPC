@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group>
+        <item
+            android:id="@+id/home_menu"
+            android:icon="@drawable/ic_menu_home"
+            android:title="Home" />
+        <item
+            android:id="@+id/about_menu"
+            android:icon="@drawable/ic_menu_about"
+            android:title="About Us" />
+        <item
+            android:id="@+id/course_menu"
+            android:icon="@drawable/ic_menu_course"
+            android:title="Course" />
+        <item
+            android:id="@+id/download_menu"
+            android:icon="@drawable/ic_menu_download"
+            android:title="Downloads" />
+
+        <item
+            android:id="@+id/hof_menu"
+            android:icon="@drawable/ic_menu_hof"
+            android:title="Hall of Fame" />
+    </group>
+
+    <item android:title="Communicate"
+        >
+        <menu>
+            <item
+                android:id="@+id/contact_menu"
+                android:icon="@drawable/ic_menu_contact"
+                android:title="Contact Us" />
+            <item
+                android:id="@+id/blog_menu"
+                android:icon="@drawable/ic_menu_blog"
+                android:title="Blog" />
+        </menu>
+    </item>
+    <item
+        android:title="Share"
+        >
+        <menu>
+
+            <item
+                android:id="@+id/whatsapp_menu"
+                android:title="WhatsApp"
+                android:icon="@drawable/ic_menu_whatsapp"
+
+                />
+            <item
+                android:id="@+id/facebook_menu"
+                android:title="FaceBook"
+                android:icon="@drawable/ic_action_name"
+
+                />
+            <item
+                android:id="@+id/twitter_menu"
+                android:title="Twitter"
+                android:icon="@drawable/ic_menu_twitter"
+
+
+                />
+            <item
+                android:id="@+id/google_menu"
+                android:title="Google+"
+                android:icon="@drawable/ic_menu_google"
+
+                />
+        </menu>
+
+
+
+    </item>
+
+</menu>
